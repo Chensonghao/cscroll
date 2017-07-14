@@ -1,0 +1,19 @@
+{
+  "name": "cscroll",
+  "version": "1.0.3",
+  "description": "",
+  "main": "lib/cscroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chensonghao/cscroll.git"
+  },
+  "author": "chensonghao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chensonghao/cscroll/issues"
+  },
+  "homepage": "https://github.com/Chensonghao/cscroll#readme"
+}
